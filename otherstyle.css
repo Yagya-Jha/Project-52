@@ -1,0 +1,37 @@
+body{
+    margin:0px;
+    background-color: rgb(179, 255, 255);
+}
+.heading{
+    font-size: 30px;
+    text-align: center;
+    background-color: black;
+    color: seashell;
+    font-family: cursive;
+}
+
+a:link{
+    color: rgb(208, 255, 0);
+    font-family: cursive;
+    text-decoration: none
+}
+
+a:visited{
+    color: blueviolet;
+    font-family: cursive;
+    text-decoration: none
+}
+
+.mainBody{
+    background-color: rgb(179, 255, 255);
+    text-align: center;
+    padding: 20px;
+}
+.footer{
+    background-color: rgb(179, 255, 255);
+    text-align: center;
+    padding: 20px;
+}
+.page{
+    border: solid;
+}
